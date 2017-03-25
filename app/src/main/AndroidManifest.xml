@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".AboutLogin" />
         <activity android:name=".AboutRegister" />
-        <activity android:name=".Userinfo"></activity>
+        <activity android:name=".Userinfo" />
+        <activity android:name=".Mainpage"></activity>
     </application>
 
 </manifest>
